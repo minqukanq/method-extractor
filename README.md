@@ -16,6 +16,24 @@ To install the software, you need to download the following:
 4. Open this project, The library to run the project is automatically downloaded by Maven.
 
 ### tree
+├── src
+│   ├── main
+│   │   ├── java
+│   │   │   ├── app
+│   │   │   │   └── Init.java
+│   │   │   ├── ast
+│   │   │   │   ├── ASTSupportSingleton.java
+│   │   │   │   ├── ParserRequestor.java
+│   │   │   │   └── SourceCodeVisitor.java
+│   │   │   └── model
+│   │   │       └── Method.java
+│   │   └── resources
+│   └── test
+│       ├── java
+│       │   └── ast
+│       │       └── MethodExtractorTest.java
+│       └── resources
+
 
 ### Running the application
 
