@@ -2,6 +2,7 @@
 For source code research, only the Method part in the java file is extracted.
 
 
+Input
 ```
 public abstract class MisraTableViewColumn extends ColumnLabelProvider {
     
@@ -27,7 +28,7 @@ public abstract class MisraTableViewColumn extends ColumnLabelProvider {
 }
 ```
 
-output
+Output
 ```
 public abstract String getText(Object element);
 
