@@ -1,6 +1,30 @@
 # method-extractor-java
 For source code research, only **Method** part of Java file is extracted using **AST tree**.
 
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+The code only works in [Eclipse](https://www.eclipse.org/downloads/).
+
+### Prerequisites
+
+To install the software, you need to download the following:
+1. Download [Eclipse](https://www.eclipse.org/downloads/).
+2. Clone or download the repository to your local computer.
+3. Import method-extractor-java.
+4. Open this project, The library to run the project is automatically downloaded by Maven.
+
+### tree
+
+### Running the application
+
+Run app.Init.java
+
+### Test the application
+
+Run MethodExtractorTest.java
+* Method extractor takes a String as input and provides only the uncommented pure Method part.
 
 Input
 ```
