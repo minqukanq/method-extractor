@@ -17,6 +17,7 @@ To install the software, you need to download the following:
 
 ### tree
 ```
+├── pom.xml
 ├── src
 │   ├── main
 │   │   ├── java
