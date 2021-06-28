@@ -1,5 +1,5 @@
 # method-extractor-java
-For source code research, only the Method part in the java file is extracted.
+For source code research, only Method part of Java file is extracted using AST tree.
 
 
 Input
