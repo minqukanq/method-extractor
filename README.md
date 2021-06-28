@@ -16,6 +16,7 @@ To install the software, you need to download the following:
 4. Open this project, The library to run the project is automatically downloaded by Maven.
 
 ### tree
+```
 ├── src
 │   ├── main
 │   │   ├── java
@@ -33,7 +34,7 @@ To install the software, you need to download the following:
 │       │   └── ast
 │       │       └── MethodExtractorTest.java
 │       └── resources
-
+```
 
 ### Running the application
 
