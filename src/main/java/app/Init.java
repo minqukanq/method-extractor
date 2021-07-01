@@ -36,7 +36,7 @@ public class Init {
 		    String line;
 
 		    while ((line = file.readLine()) != null) 
-		        input += line + '\n';
+		        input += line;
 		    file.close();
 		    
 		} catch (Exception e) {System.out.print("Problem reading the file.\n" + e + "\n");}
