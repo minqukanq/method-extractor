@@ -47,7 +47,7 @@ Run MethodExtractorTest.java
 * Method extractor takes a String as input and provides only the uncommented pure Method part.
 
 Input
-```
+```java
 public abstract class MisraTableViewColumn extends ColumnLabelProvider {
     
     public abstract String getText(  Object element );
@@ -73,7 +73,7 @@ public abstract class MisraTableViewColumn extends ColumnLabelProvider {
 ```
 
 Output
-```
+```java
 public abstract String getText(Object element);
 
 public abstract String getTitle();
