@@ -14,7 +14,7 @@ To install the software, you need to download the following:
 2. Clone or download the repository to your local computer.
 3. Import method-extractor-java.
 4. Open this project, The library to run the project is automatically downloaded by Maven.
-4.1 If an import error occurs, manually add the **jar** files in the Lib folder.
+5. If an import error occurs, manually add the **jar** files in the Lib folder.
 
 ### tree
 ```
