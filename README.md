@@ -1,5 +1,5 @@
 # method-extractor
-For source code research, only **Method** part of Java, Python file is extracted using **AST tree**.
+For source code research, only **Method** part of **Java**, **Python** file is extracted using **AST tree**.
 
 ## Getting Started
 
